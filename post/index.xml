@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Kishan Nagendra</title>
+    <link>https://kishan92.github.io/post/</link>
+    <description>Recent content in Projects on Kishan Nagendra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://kishan92.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accelerated Image Restoration using CUDA</title>
+      <link>https://kishan92.github.io/post/project-6/</link>
+      <pubDate>Tue, 15 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kishan92.github.io/post/project-6/</guid>
+      <description>This software application is a performant image restoration filter to leverages parallelization capabilities in C++ and CUDA to do the operation of deblurring images faster than the out-of-the-box OpenCV deblur filter. This is achieved by replacing most of the inbuilt library functions with optimized loop constructs and leveraging enhanced native language capabilities. The performance analysis indicates that the computation time for image restoration is reduced by 62.13% compared to using the OpenCV standard restoration filter.</description>
+    </item>
+    
+    <item>
+      <title>Secure File Transfer Suite</title>
+      <link>https://kishan92.github.io/post/project-7/</link>
+      <pubDate>Mon, 14 Feb 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://kishan92.github.io/post/project-7/</guid>
+      <description>A Software to Secure files using CBC Encryption This Security Software Application is used to Encrypt/Decrypt a file by allowing the user to chose a secret, cipher type(AES / DES), hashing algorithm(SHA256 / SHA512) and the number of iterations of cryptographic function based on the level of security needed and the hardware support. The software also allows to profile latency for different combinations of security parameters.
+How it Works - Steps involved in CBC Encryption The encryption uses the PBKDF2 library to derive a master key using a secret, cipher, hashing algorithms and salt.</description>
+    </item>
+    
+    <item>
+      <title>Building a map of Traffic Signs</title>
+      <link>https://kishan92.github.io/post/project-9/</link>
+      <pubDate>Fri, 14 Sep 2018 11:25:05 -0400</pubDate>
+      
+      <guid>https://kishan92.github.io/post/project-9/</guid>
+      <description>An Overview of the Project(STAR) Situation: Develop a software tool for recognizing road signs in a given area of a map. The tool would be used to create a custom dataset of road coordinates and images, and for implementing traffic sign recognition
+Task: To gather a dense set of road coordinates and images of the entire city of Luxembourg, and to accurately identify road signs in the city.
+Action:
+Data collection: I used Google&amp;rsquo;s map API to gather road coordinates in a grid pattern, used mechanism to retain only one reference per road, and finally gathered a dense dataset of 450K road coordinates.</description>
+    </item>
+    
+    <item>
+      <title>Bringing Semantics to IoT</title>
+      <link>https://kishan92.github.io/post/project-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kishan92.github.io/post/project-8/</guid>
+      <description>The thesis aimed to address the problem of the semantic gap between various IoT devices and platforms, which makes it difficult to understand the messages sent and received from these devices. To tackle this problem, the thesis proposed the use of ontologies, which are well-defined classes of devices with pre-defined functionalities and attributes, regardless of vendor, technology, and protocols used. The H2020 project VICINITY was used as a case study to demonstrate the proposed solution.</description>
+    </item>
+    
+  </channel>
+</rss>
