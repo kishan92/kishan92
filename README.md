@@ -3,13 +3,11 @@ Email: kishann@uw.edu | Cell: +14255349959 | [LinkedIn](https://www.linkedin.com
 
 ### EDUCATION:
 
-**Master of Science** (CGPA: 3.9) 
+- **Master of Science** (CGPA: 3.9) 
 Computer Science, University of Washington, United States, Sep 2021 - Present
-
-**Master of Science**
+- **Master of Science**
 Intelligent Systems, Technical University of Kaiserslautern, Germany, Apr 2016 - Oct 2018
-
-**Bachelor of Engineering**
+- **Bachelor of Engineering**
 Information Science and Engineering, M S Ramaiah Institute of Technology, India, Aug 2009 - Jun 2013
 
 ### **WORK EXPERIENCE:**
@@ -74,10 +72,7 @@ Open-Source Initiative, University of Washington (Capstone)
 
 I am developing an open-source framework, "Luna App", that converts presentation slides into a mobile application for non-technical users to create awareness about social causes. I am working with Peace Corps volunteers to raise awareness about prenatal and postnatal health among indigenous communities in South American countries using "Luna App" framework.
 
-  
-
 ### **AWARDS and ACHIEVEMENTS:**
-
 - Serving as **President of International Club** at University of Washington.
 - **Qualified for Google-Code Jam 2018**
 - **Certified System Architect**” for PRPC (PegaRULES Process Commander) v6.2SP2.
