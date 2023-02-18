@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kishan Nagendra</title>
+    <link>https://nkishan.com/</link>
+    <description>Recent content on Kishan Nagendra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jan 2023 11:25:05 -0400</lastBuildDate><atom:link href="https://nkishan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate Research Assistant</title>
+      <link>https://nkishan.com/work/project-6/</link>
+      <pubDate>Sat, 14 Jan 2023 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/work/project-6/</guid>
+      <description>Teaching Tools and Oauth2.0 Built Infrastructure and tools to enhance Canvas Learning Management System for faculty and students. Using DevOps practices and agile methods to lead a team of five
+Developed a robust and secure login system for the university using Canvas OAuth 2.0. The system was designed to handle a high volume of user login requests from students and faculty on a daily basis. Implemented OAuth 2.0 protocol for authentication and authorization, ensuring that only authorized users can access the system.</description>
+    </item>
+    
+    <item>
+      <title>Graduate Research Assistant</title>
+      <link>https://nkishan.com/work/project-7/</link>
+      <pubDate>Wed, 15 Jun 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/work/project-7/</guid>
+      <description>Securing Medical Images in an IoMT Ecosystem Investigated key security concerns with handling of medical images in an Internet of Medical Things (IoMT) environment and proposed attack models Developed an independent and collaborated edge device-based security solution that runs parallel to the diagnostic process in IoMT ecosystem Examined the sensing layer and the network aggregation layer to understand the image data exchange mechanism in the IoMT environment Analyzed variables and protocols relevant to security and privacy in the sensing layer and the network layer to identify possible security vulnerabilities and privacy concerns Used data gathered to devise attack models that illustrate threats vectors for the combined operation of sensing layer and aggregation layer for image exchange before exposure to the open internet Proposed a 2-step edge device-based approach for image security Figure: Proposed IoMT Security Architecture Inferred raw image data received from the IoMT imaging devices and segregated it based on the type of images using a sequential deep-learning inference model with three layers Applied encryption, steganography or authentication security solutions based on inference from the image in the second step to address data fragmentation issues Conducted tests to verify the integrity and confidentiality of the image post processing.</description>
+    </item>
+    
+    <item>
+      <title>Accelerated Image Restoration using CUDA</title>
+      <link>https://nkishan.com/post/project-6/</link>
+      <pubDate>Tue, 15 Mar 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/post/project-6/</guid>
+      <description>This software application is a performant image restoration filter that leverages parallelization capabilities in C++ and CUDA to perform the operation of deblurring images faster than the out-of-the-box OpenCV deblur filter. This is achieved by replacing most of the inbuilt library functions with optimized loop constructs and leveraging enhanced native language capabilities. The performance analysis indicates that the computation time for image restoration is reduced by 62.13% compared to using the OpenCV standard restoration filter.</description>
+    </item>
+    
+    <item>
+      <title>Secure File Transfer Suite</title>
+      <link>https://nkishan.com/post/project-7/</link>
+      <pubDate>Mon, 14 Feb 2022 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/post/project-7/</guid>
+      <description>A Software to Secure files using CBC Encryption This Security Software Application is used to Encrypt/Decrypt a file by allowing the user to choose a secret, cipher type(AES / DES), hashing algorithm(SHA256 / SHA512) and the number of iterations of cryptographic function based on the level of security needed and the hardware support. The software also allows to profile latency for different combinations of security parameters. How it Works? Steps involved in CBC Encryption The encryption uses the PBKDF2 library to derive a master key using a secret, cipher, hashing algorithms and salt.</description>
+    </item>
+    
+    <item>
+      <title>Software Engineer</title>
+      <link>https://nkishan.com/work/project-1/</link>
+      <pubDate>Fri, 14 Jun 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/work/project-1/</guid>
+      <description>Building Integration Layer between Banks Worked as a Software Engineer at Capgemini, Frankfurt, on a project for a commerce bank in Germany The bank had recently acquired another local city bank and needed a solution for seamless movement of data upstream and downstream between the two banks Built a common communication platform using WebMethods, a java-based enterprise application integration framework, to enable data sharing and collaboration across multiple banks Wrote Java microservices to help enrich the data, ensuring that both banking portals reflected the same information Worked closely with the database team to design the staging database schema Built the deployment server and introduced the use of Docker swarms to run the staging environment locally, bringing innovation to the project Utilized WebMethods for integration, Java for microservices and Docker for deployment Delivered a solution that helped the bank easily move data between their systems and maintain consistency of information on both banking portals Developed skills in integration, data enrichment and deployment using Docker.</description>
+    </item>
+    
+    <item>
+      <title>Software Engineer Freelance</title>
+      <link>https://nkishan.com/work/project-2/</link>
+      <pubDate>Thu, 14 Mar 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/work/project-2/</guid>
+      <description>Employee Management System Worked as a freelance software engineer on a project for a manufacturing firm in India with 700 employees working in different shifts The company faced challenges in accurately managing the number of employees coming in and out of each shift Developed an in-house employee management application to record employee leaves and accurately report the number of employees present at any given time Modernized the employee shift management system and added insight about the workforce coming into each shift Started by gaining a deep understanding of the customer&amp;rsquo;s pain points and goals, I presented my suggestions for a complete solution that addresses their specific needs.</description>
+    </item>
+    
+    <item>
+      <title>Software Engineer Intern</title>
+      <link>https://nkishan.com/work/project-3/</link>
+      <pubDate>Sun, 28 Oct 2018 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/work/project-3/</guid>
+      <description>Etherium based Smart Contract for Housing Loans Worked as a Software Engineer Intern at Capgemini in Frankfurt, on a project for a prototype using Ethereum smart contracts for housing loans Developed a proof of concept for a decentralized solution for managing housing loans on the blockchain Built the prototype using Ethereum smart contracts and Solidity programming language Utilized web3.js library to interact with the Ethereum blockchain and Truffle framework for developing, testing, and deploying smart contracts Designed, developed, tested and deployed smart contracts on the Ethereum blockchain Developed the front-end of the application using React.</description>
+    </item>
+    
+    <item>
+      <title>Building a map of Traffic Signs</title>
+      <link>https://nkishan.com/post/project-9/</link>
+      <pubDate>Fri, 14 Sep 2018 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/post/project-9/</guid>
+      <description>An Overview of the Project(STAR) Situation: Develop a software tool for recognizing road signs in a given area of a map. The tool would be used to create a custom dataset of road coordinates and images, and for implementing traffic sign recognition
+Task: To gather a dense set of road coordinates and images of the entire city of Luxembourg, and to accurately identify road signs in the city.
+Action:
+Data collection: I used Google&amp;rsquo;s map API to gather road coordinates in a grid pattern, used mechanism to retain only one reference per road, and finally gathered a dense dataset of 450K road coordinates.</description>
+    </item>
+    
+    <item>
+      <title>Associate Technical Solutions Engineer</title>
+      <link>https://nkishan.com/work/project-4/</link>
+      <pubDate>Wed, 02 Mar 2016 11:25:05 -0400</pubDate>
+      
+      <guid>https://nkishan.com/work/project-4/</guid>
+      <description>Worked as an Associate Technical Solutions Engineer at Pegasystems Worldwide India Pvt. Ltd. in Bangalore from Mar 2014 - Feb 2016 Developed a Proof of Concept in which a work object followed a dynamic path based on business rules using Pega 7 automation, a Business Process Management product Part of a scrum-based lean agile team of 3, resulted in Wells Fargo backbone upgrading and a license support sale worth more than $1 million Evaluated the 2016 release of Pega&amp;rsquo;s process commander and provided more than 30 recommendations for back-end which were made part of product changes in the future releases Resolved more than 100 technical issues of clients like AIG, Cisco, CVS health among others Recognized for ability to understand the product, think outside the box and can-do attitude Passionate about upcoming technologies and in-depth understanding of the PRPC architecture Consistently troubleshoot and debug issues in PRPC (PegaRULES Process Commanders) Worked on challenging cases that involved diverse topics and frameworks and methodically learned them and immediately involved myself to debug the cases.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nkishan.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nkishan.com/about/</guid>
+      <description>Kishan Nagendra As a Software Engineer I am currently advancing my skills through a Master&amp;rsquo;s in Computer Science at the University of Washington
+In the past 4 years, I&amp;rsquo;ve gained experience working on a diverse range of projects. I built an integration layer for data exchange between banks, developed an employee management application for a 700-person firm, created a novel software to integrate three IoT platforms for my thesis, delivered a deep learning-based IoT Imaging security solution to prevent medical image tampering, and designed a high-performance image restoration filter with 62.</description>
+    </item>
+    
+    <item>
+      <title>Bringing Semantics to IoT</title>
+      <link>https://nkishan.com/post/project-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nkishan.com/post/project-8/</guid>
+      <description>The thesis aimed to address the problem of the semantic gap between various IoT devices and platforms, which makes it difficult to understand the messages sent and received from these devices. To tackle this problem, the thesis proposed the use of ontologies, which are well-defined classes of devices with pre-defined functionalities and attributes, regardless of vendor, technology, and protocols used. The H2020 project VICINITY was used as a case study to demonstrate the proposed solution.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://nkishan.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nkishan.com/contact/</guid>
+      <description>I&amp;rsquo;m always happy to hear from you, whether you have a question, a comment, or just want to say hi. Here are a few ways you can get in touch with me:
+Email: kishann@uw.edu LinkedIn: Kishan Nagendra GitHub: kishan92 LeetCode: nkishan If you prefer a more traditional form of communication, you can also fill out the contact form below and I&amp;rsquo;ll get back to you as soon as I can.</description>
+    </item>
+    
+  </channel>
+</rss>
