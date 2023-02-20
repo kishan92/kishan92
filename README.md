@@ -55,7 +55,7 @@ Pegasystems Worldwide India Pvt. Ltd., Bangalore, Mar 2014 - Feb 2016
 **Accelerated Image Restoration using CUDA**
 High Performance Computing, University of Washington
 
-Developed and designed a performant filter to deblur images. Used C++ and CUDA to write highly parallelized versions of out-of-box OpenCV methods which proved to be 8 times more performant. Compared the accuracy of both parallel and sequential versions of the code using standard Computer Vision methodologies (PSNR and MSE Values). GitHub link [here](https://github.com/kishan92/Accelerated_ImageRestoration_using_CUDA)
+Developed and designed a performant filter to deblur images. Used C++ and CUDA to write highly parallelized versions of out-of-box OpenCV methods which proved to be 8 times more performant. Compared the accuracy of both parallel and sequential versions of the code using standard Computer Vision methodologies (PSNR and MSE Values). GitHub link [here](https://github.com/kishann/Accelerated_ImageRestoration_using_CUDA)
 
 **Bringing Semantics to IoT: About IoT Ontologies and their application**
 Master Thesis, Cyber-Physical Systems, Technical University of Kaiserslautern
