@@ -4,7 +4,7 @@ Email: kishann@uw.edu | Cell: +14255349959 | [LinkedIn](https://www.linkedin.com
 ### EDUCATION:
 
 - **Master of Science** (CGPA: 3.9) 
-Computer Science, University of Washington, United States, Sep 2021 - Present
+Computer Science, University of Washington, United States, Sep 2021 - June 2023
 - **Master of Science**
 Intelligent Systems, Technical University of Kaiserslautern, Germany, Apr 2016 - Oct 2018
 - **Bachelor of Engineering**
