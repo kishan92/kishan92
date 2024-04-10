@@ -12,6 +12,10 @@ Information Science and Engineering, M S Ramaiah Institute of Technology, India,
 
 ### **WORK EXPERIENCE:**
 
+**Security Engineer**
+Certus Cybersecurity, Amazon Offesive Security Team, September 2022 - Now
+
+
 **Graduate Research Assistant**
 University of Washington, Computing and Software Systems, June 2022 - September 2022
 
