@@ -15,6 +15,7 @@ Information Science and Engineering, M S Ramaiah Institute of Technology, India,
 **Security Engineer**
 Certus Cybersecurity, Amazon Offesive Security Team, September 2022 - Now
 - Independently assessed the security posture of over 10 applications/services before their deployment by AWS, identifying more than 12 high-impact issues.
+- Assessing the software security posture and conducting penetration testing for Amazon retail, AWS, Meta, and Adobe's new applications and services, while working alongside their security teams.
 - Developed a service tool for ScoutSuite to support AWS's IoT Core service.
 - Developing an LLM security evaluation tool.
 
